@@ -7,30 +7,14 @@
 
 ## How to run
 
-### ********** Welcome to " El Mercado " Food  Market **********
 
-## 1. The user will input the cost of the item, then press return.  
-### What is the cost of the item?
-### .67 <-- User's input.
+### 1. The user will input the cost of the item, then press return.  
 
-## 2. The user will input the amount of money tendered, then press return.
-### Please enter how much did the customer pay?
-### 1 <-- User's input.
+### 2. The user will input the amount of money tendered, then press return.
 
-## 3. The owed change will be displayed, followed by the owed amount of bills or/and cents organized by denominations.
-### Change would be 0.33 that is: <-- Change Owed.
+### 3. The owed change will be displayed, followed by the owed amount of bills or/and cents organized by denominations.
 
-## 4. Change sub-divided in correct denominations.
-### 1 Quarter/s.
-### 1 Dime/s.
-### 3 Penny/ies.
-
-## 5. The user would have the option to process another item. If Yes or Y is entered, the program restarts and another item can be processed.
-### Would you like to purchase another item? Yes / No
-### n
-
-## On the other hand, if No or N is entered, the goodbye message will appear and the program will terminate.
-### ****** Thank you for shopping at El Mercado Food Market, Goodbye! ******
+### 5. The user would have the option to process another item. If "Yes" or "Y" is entered, the program restarts and another item can be processed. On the other hand, if "No" or "N" is entered, the goodbye message will appear and the program will terminate.
 
 
 ## Technologies/topics used
